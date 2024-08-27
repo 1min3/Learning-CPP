@@ -12,11 +12,12 @@ This repository documents my learning journey through C++ as guided by the BroCo
 - **Type Conversion**
 - **User Input**
 - **Useful Math Check Function**
+- **Hypotenuse Calculator Practice Program**
+- **If Statements**
+
 
 ## In Progress ❌
 
-- Hypotenuse Calculator Practice Program
-- If Statements
 - Switch Statements
 - Console Calculator Program
 - Ternary Operator
